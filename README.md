@@ -1,7 +1,7 @@
 # 🎲 Random Task Generator
 
 **Автор:** Александр Шило 
-**GitHub:** [)
+**GitHub:** [https://github.com/San4eL0/task_generator.git)
 
 ## 📝 Описание проекта
 
